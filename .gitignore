@@ -1,4 +1,9 @@
 # virtual enviroment
 env/
-
+#directories
 .idea/
+__pycache__/
+
+
+#files
+tomato.html
