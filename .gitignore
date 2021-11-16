@@ -1,9 +1,12 @@
 # virtual enviroment
 env/
+
 #directories
 .idea/
 __pycache__/
 
 
+
 #files
 tomato.html
+all_films_list.json
