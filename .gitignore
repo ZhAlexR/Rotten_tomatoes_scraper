@@ -4,9 +4,8 @@ env/
 #directories
 .idea/
 __pycache__/
-
+data/*
+!data/.gitkeep
 
 
 #files
-tomato.html
-all_films_list.json
